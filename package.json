@@ -4,6 +4,9 @@
   "description": "",
   "main": "bin/index.js",
   "type": "module",
+  "bin": {
+    "iterbox": "bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
