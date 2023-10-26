@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/MSE99/iterbox/issues"
   },
-  "homepage": "https://github.com/MSE99/iterbox#readme"
+  "homepage": "https://github.com/MSE99/iterbox#readme",
+  "dependencies": {
+    "iterbox": "github:mse99/iterbox"
+  }
 }
